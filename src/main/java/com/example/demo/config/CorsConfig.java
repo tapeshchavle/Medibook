@@ -18,6 +18,7 @@ public class CorsConfig {
                                 "http://localhost:5173",
                                 "http://localhost:5174",
                                 "http://localhost:3000",
+                                "https://medibook.tapesh.me",
                                 "https://medibook-frontend-git-main-tapeshchawle-gmailcoms-projects.vercel.app")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
