@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: your-app-name-here   # UPDATE THIS
+  AZURE_WEBAPP_NAME: medibook-api
 
 jobs:
   build-and-deploy:
